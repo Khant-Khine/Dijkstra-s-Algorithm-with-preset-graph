@@ -59,5 +59,6 @@ Verify with steps tracked from health app and Google Maps.
 ## Future Additions
 Additions for direct ad-hoc implementation for location tracking in natural disasters.
 ## Ad-hoc implementation Possibility
+In progress...
 <h4>The end</h4>
 
