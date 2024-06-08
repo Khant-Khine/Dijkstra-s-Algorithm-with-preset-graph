@@ -55,6 +55,7 @@ Select all the files you downloaded from the repository in your Downloads and cl
 ## Program Run
 Run with a case from one location to another in university.
 ## Test Case
+Verify with steps tracked from health app and Google Maps.
 ## Future Additions
 ## Ad-hoc implementation Possibility
 <h4>The end</h4>
