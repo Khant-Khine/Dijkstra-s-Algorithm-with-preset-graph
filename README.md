@@ -53,7 +53,7 @@ Select all the files you downloaded from the repository in your Downloads and cl
 </ol>
 
 ## Program Run
-Run with a case from one location to another in university.
+Run with a case from one location to another in university. This is a mapping relative to different distances within the university.
 ## Test Case
 Verify with steps tracked from health app and Google Maps.
 ## Future Additions
