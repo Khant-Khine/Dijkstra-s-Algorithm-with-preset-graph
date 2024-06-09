@@ -55,7 +55,7 @@ Select all the files you downloaded from the repository in your Downloads and cl
 ## Program Run
 Run with a case from one location to another in university. This is a mapping relative to different distances within the university.
 ## Test Case
-Verify with steps tracked from health app and Google Maps. Confirm the time used with mean time used for distance traversal.
+Verify with steps tracked from health app and Google Maps. Confirm the time used with mean time used for distance traversal. Utilize different transportation means to verify the relative time used for distances.
 ## Future Additions
 Additions for direct ad-hoc implementation for location tracking in natural disasters.
 ## Ad-hoc implementation Possibility
