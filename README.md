@@ -64,6 +64,6 @@ Low latency
 Priority Queuing involved
 ## Ad-hoc implementation Possibility
 In progress...researching how to minimize memory and time complexity for effective program run.
-To be soon
+To be soon updated
 <h4>The end</h4>
 
