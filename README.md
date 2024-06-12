@@ -15,6 +15,7 @@ This program uses two classes, a vertex class to represent vertexes in a graph, 
   </li>
   <li>
     Main Program
+    This main program includes the preset graph and user interface.
   </li>
 </ul>
 ## Programming Language and Compiler
