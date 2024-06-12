@@ -4,6 +4,11 @@ This is an implementation of Dijkstra's Algorithm with a preset graph. The user 
 
 ## How this works
 This program uses two classes, a vertex class to represent vertexes in a graph, and a priority queue class which uses minheap to process Dijkstra's Algorithm.
+<ul>
+  <li>
+    Vertex Class
+  </li>
+</ul>
 ## Programming Language and Compiler
 IDE: **CodeBlocks**
 <br>
