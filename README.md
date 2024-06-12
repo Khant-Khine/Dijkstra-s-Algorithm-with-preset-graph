@@ -11,6 +11,9 @@ This program uses two classes, a vertex class to represent vertexes in a graph, 
   <li>
     Priority Queue
   </li>
+  <li>
+    Main Program
+  </li>
 </ul>
 ## Programming Language and Compiler
 IDE: **CodeBlocks**
