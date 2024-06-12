@@ -11,6 +11,7 @@ This program uses two classes, a vertex class to represent vertexes in a graph, 
   </li>
   <li>
     Priority Queue
+    This is a class which uses the minheap structure to enable a priority queue in Dijkstra's Algorithm.
   </li>
   <li>
     Main Program
