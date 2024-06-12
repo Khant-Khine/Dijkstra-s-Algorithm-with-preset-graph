@@ -7,6 +7,7 @@ This program uses two classes, a vertex class to represent vertexes in a graph, 
 <ul>
   <li>
     Vertex Class
+    This is a class which handles the vertexes in a shortest path finding program.
   </li>
   <li>
     Priority Queue
