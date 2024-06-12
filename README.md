@@ -9,7 +9,7 @@ This program uses two classes, a vertex class to represent vertexes in a graph, 
     Vertex Class
   </li>
   <li>
-    
+    Priority Queue
   </li>
 </ul>
 ## Programming Language and Compiler
