@@ -67,7 +67,7 @@ Select all the files you downloaded from the repository in your Downloads and cl
 </ol>
 
 ## Program Run
-Run with a case from one location to another in university. This is a mapping relative to different distances within the university. In this instance, I will be using the University of North Alabama as an example.
+Run with a case from one location to another in university. This is a mapping relative to different distances within the university. In this instance, I will be using the University of North Alabama as an example. I have made the assumption that I am initially placed at the entrance of the university and all distances within the set graph is relative to my location.
 ## Test Case
 Verify with steps tracked from health app and Google Maps. Confirm the time used with mean time used for distance traversal. Utilize different transportation means to verify the relative time used for distances.
 ## Future Additions
