@@ -15,7 +15,7 @@ This program uses two classes, a vertex class to represent vertexes in a graph, 
   </li>
   <li>
     Main Program
-    This main program includes the preset graph and user interface. It also includes the Dijkstra's Algorithm within it. For the user interface, the user will be presented with a list of locations within the university and prompted to enter a starting location.
+    This main program includes the preset graph and user interface. It also includes the Dijkstra's Algorithm within it. For the user interface, the user will be presented with a list of locations within the university and prompted to enter a starting location. The program will verify the validity of the entered location, and proceed to ask the user for the ending location.
   </li>
 </ul>
 ## Programming Language and Compiler
