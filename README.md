@@ -15,7 +15,7 @@ This program uses two classes, a vertex class to represent vertexes in a graph, 
   </li>
   <li>
     Main Program
-    This main program includes the preset graph and user interface.
+    This main program includes the preset graph and user interface. It also includes the Dijkstra's Algorithm within it.
   </li>
 </ul>
 ## Programming Language and Compiler
