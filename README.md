@@ -45,7 +45,7 @@ main.cpp (main program)
 PriorityQueue.h (MinHeap Priority Queue)
 </li>
 <li>
-Vertex.h
+Vertex.h (Vertex, which is templated)
 </li>
 <li>
 Vertex.cpp
