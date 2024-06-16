@@ -42,7 +42,7 @@ Now, we will create the project. Please select "C++" as the language to be used.
 main.cpp (main program)
 </li>
 <li>
-PriorityQueue.h
+PriorityQueue.h (MinHeap Priority Queue)
 </li>
 <li>
 Vertex.h
