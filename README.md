@@ -48,7 +48,7 @@ PriorityQueue.h (MinHeap Priority Queue)
 Vertex.h (Vertex, which is templated)
 </li>
 <li>
-Vertex.cpp
+Vertex.cpp (Templated methods)
 </li>
 </ul>
 </li>
