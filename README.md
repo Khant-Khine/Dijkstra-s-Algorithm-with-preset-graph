@@ -48,7 +48,7 @@ PriorityQueue.h (MinHeap Priority Queue) for Priority Queue in Dijkstrra's Algor
 Vertex.h (Vertex, which is templated) for Vertexes in Graph
 </li>
 <li>
-Vertex.cpp (Templated methods)
+Vertex.cpp (Templated methods) for implemented Vertex methods
 </li>
 </ul>
 </li>
