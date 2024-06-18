@@ -39,7 +39,7 @@ After suceesful installation of the CodeBlocks IDE, please open the newly instal
 Now, we will create the project. Please select "C++" as the language to be used. Then, click "Next". Afterwards, please provide a suitable name for the project and click "Next". Finally, we click "Finish" to finish creating the project. You have now successfully created the project! Let us now download and import the files provided in this repository to our newly created project. Please download the included files within this repository. They are:
 <ul>
 <li>
-main.cpp (main program)
+main.cpp (main program) with Dijkstra's Algorithm
 </li>
 <li>
 PriorityQueue.h (MinHeap Priority Queue)
