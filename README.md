@@ -42,7 +42,7 @@ Now, we will create the project. Please select "C++" as the language to be used.
 main.cpp (main program) with Dijkstra's Algorithm
 </li>
 <li>
-PriorityQueue.h (MinHeap Priority Queue)
+PriorityQueue.h (MinHeap Priority Queue) for Priority Queue in Dijkstrra's Algorithm
 </li>
 <li>
 Vertex.h (Vertex, which is templated)
