@@ -11,7 +11,7 @@ This program uses two classes, a vertex class to represent vertexes in a graph, 
   </li>
   <li>
     Priority Queue
-    This is a class which uses the minheap structure to enable a priority queue in Dijkstra's Algorithm. The minheap structure uses nodes which are of binary nature. Each minheap node, except the root, has a single parent, and possible two children. In a minheap structure, the parent is always smaller than its children.
+    This is a class which uses the minheap structure to enable a priority queue in Dijkstra's Algorithm. The minheap structure uses nodes which are of binary nature. Each minheap node, except the root, has a single parent, and possible two children. In a minheap structure, the parent is always smaller than its children. Therefore, the smallest node value is placed at the root, and is used as the next node to be processed by Dijkstra's Algorithm.
   </li>
   <li>
     Main Program
