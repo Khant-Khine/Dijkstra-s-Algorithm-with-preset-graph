@@ -45,7 +45,7 @@ main.cpp (main program) with Dijkstra's Algorithm
 PriorityQueue.h (MinHeap Priority Queue) for Priority Queue in Dijkstrra's Algorithm
 </li>
 <li>
-Vertex.h (Vertex, which is templated) for Vertexes in Graph which use the 
+Vertex.h (Vertex, which is templated) for Vertexes in Graph which use the class
 </li>
 <li>
 Vertex.cpp (Templated methods) for implemented Vertex methods
