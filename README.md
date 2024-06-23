@@ -1,6 +1,6 @@
 # Dijkstra-s-Algorithm-with-preset-graph
 ## About the project
-This is an implementation of Dijkstra's Algorithm with a preset graph. The user will enter a starting and ending point and will be presented with the shortest path. Future implementation for ad-hoc networks with Dijkstra's algorithm, to be used in disaster management systems, is the ultimate goal of this project. This program has been coded in C++.I hope you enjoy this project. 
+This is an implementation of Dijkstra's Algorithm with a preset graph. The user will enter a starting and ending point and will be presented with the shortest path. Future implementation for ad-hoc networks with Dijkstra's algorithm, to be used in disaster management systems, is the ultimate goal of this project. This program has been coded in C++. I have I hope you enjoy this project. 
 
 ## How this works
 This program uses two classes, a vertex class to represent vertexes in a graph, and a priority queue class which uses minheap to process Dijkstra's Algorithm.
