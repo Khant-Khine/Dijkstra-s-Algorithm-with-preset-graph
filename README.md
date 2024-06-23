@@ -25,7 +25,7 @@ Language: **C++**
 ## How to Install and Run
 <ol>
 <li>
-This project uses the C++ programming language and was coded on CodeBlocks IDE. Therefore to run this project, please install the CodeBlocks IDE binary release and follow the instructions shown. The version you download will differ based on the operating system of your computer, Windows, macOS, or  <a href=https://www.codeblocks.org/downloads/binaries/>This</a> is the link for the installation.
+This project uses the C++ programming language and was coded on CodeBlocks IDE. Therefore to run this project, please install the CodeBlocks IDE binary release and follow the instructions shown. The version you download will differ based on the operating system of your computer, Windows, macOS, or Linux. <a href=https://www.codeblocks.org/downloads/binaries/>This</a> is the link for the installation.
 </li>
 <br>
 
