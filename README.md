@@ -1,4 +1,4 @@
-Note: This repository is being created. It is not yet complete. Please
+Note: This repository is being created. It is not yet complete. Please wait
 # Dijkstra-s-Algorithm-with-preset-graph
 ## About the project
 This is an implementation of Dijkstra's Algorithm with a preset graph. The user will enter a starting and ending point and will be presented with the shortest path. Future implementation for ad-hoc networks with Dijkstra's algorithm, to be used in disaster management systems, is the ultimate goal of this project. This program has been coded in C++. I have coded this program in CodeBlocks. I hope you enjoy this project. 
