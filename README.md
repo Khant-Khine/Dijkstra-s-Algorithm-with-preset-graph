@@ -8,7 +8,7 @@ This program uses two classes, a vertex class to represent vertexes in a graph, 
 <ul>
   <li>
     Vertex Class
-    This is a class which handles the vertexes in a shortest path finding program. It contains private attributes for storing data and access. It also includes public methods for public access. This class is templated. This allows for flexible usage with different data types.
+    This is a class which handles the vertexes in a shortest path finding program. It contains private attributes for storing data and access. It also includes public methods for public access. This class is templated. This allows for flexible usage with different data types and their properties.
   </li>
   <li>
     Priority Queue
